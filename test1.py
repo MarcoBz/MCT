@@ -20,7 +20,7 @@ from boa.interop.Neo.TriggerType import Application, Verification
 from boa.interop.System.ExecutionEngine import GetExecutingScriptHash, GetCallingScriptHash
 from boa.interop.Neo.App import RegisterAppCall
 
-OWNER = b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+OWNER = b'#\xba\'\x03\xc52c\xe8\xd6\xe5"\xdc2 39\xdc\xd8\xee\xe9'
 
 # mainnet
 #MCT_SCRIPTHASH = b'?\xbc`|\x12\xc2\x87642$\xa4\xb4\xd8\xf5\x13\xa5\xc2|\xa8'
