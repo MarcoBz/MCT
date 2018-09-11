@@ -2,12 +2,11 @@
 Master Contract Token dApp Template Contract
 ============================================
 
-Author: Joe Stewart
-Email: hal0x2328@splyse.tech
+Author: MarcoBz
 
-Date: May 8 2018
+Date: 11/09/2018
 
-This code demonstrates use of MCT receive/send and staked storage functions
+First test with a dApp using MCT token
 
 Deployment in neo-python:
 
