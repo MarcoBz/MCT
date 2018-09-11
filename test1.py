@@ -1,5 +1,5 @@
 """
-Master Contract Token dApp Template Contract
+Master Contract Token dApp Test 1
 ============================================
 
 Author: MarcoBz
